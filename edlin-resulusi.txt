@@ -1,0 +1,4 @@
+Edlin Resolusi
+- konsisten membuat konten 2x seminggu
+- membuat web untuk memanajemen video
+- membuat komunitas diskusi koding
