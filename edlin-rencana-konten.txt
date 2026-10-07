@@ -3,7 +3,9 @@ RENCANA KONTEN EDLIN
 - Javascript
   *ES6
   *Freamework Javascript
-    ^ Agular
-    ^ React
+   ^ Agular
+   ^ React
+   ^ Vue
 - membuat catatan membantu ngoding
 - Project Aplikasi
+- Pyton
