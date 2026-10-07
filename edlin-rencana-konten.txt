@@ -3,6 +3,8 @@ RENCANA KONTEN EDLIN
 - Javascript
   *ES6
   *Freamework Javascript
+    ^ Agular
+    ^ React
 - membuat catatan membantu ngoding
 - PHP Framework
 - Project Aplikasi
