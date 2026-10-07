@@ -6,5 +6,4 @@ RENCANA KONTEN EDLIN
     ^ Agular
     ^ React
 - membuat catatan membantu ngoding
-- PHP Framework
 - Project Aplikasi
