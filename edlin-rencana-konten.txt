@@ -1,0 +1,7 @@
+RENCANA KONTEN EDLIN
+
+- Javascript
+  *ES6
+  *Freamework Javascript
+- PHP Framework
+- Project Aplikasi
