@@ -3,6 +3,9 @@ RENCANA KONTEN EDLIN
 - Javascript
   *ES6
   *Freamework Javascript
+   ^ Vue
+   ^ React
 - membuat catatan membantu ngoding
 - PHP Framework
 - Project Aplikasi
+- Pyton
